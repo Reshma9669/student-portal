@@ -1,0 +1,6 @@
+Name : B.Reshma
+Course : BCA DataScience
+Section : One and only section
+RNo : 440
+College Branch : AWDC GJW
+SUC Code : 00000001
